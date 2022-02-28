@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jnrkdb17
-- 👀 I’m interested in graphic design,web development,cryptocurrency and machine learning
-- 🌱 I’m currently learning graphic design
+- 👀 I’m interested in data analytics,web development,blockchain and ML.
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me E-mail: jithinreddyn@gmail.com
 
 <!---
