@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnrkdb17
+- 👋 Hi, I’m Jithin
 - 👀 I’m interested in data analytics,web development,blockchain and ML.
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me E-mail: jithinreddyn@gmail.com
